@@ -1,0 +1,1767 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"disk",
+				"disk_available"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"s",
+				"stmt"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"nd",
+				"ndop_db_information"
+			],
+			[
+				"fon",
+				"font_size"
+			],
+			[
+				"lo",
+				"longi"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"id",
+				"id_dom"
+			],
+			[
+				"set",
+				"setFocus"
+			],
+			[
+				"co",
+				"container_parameter"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"get",
+				"getcwd"
+			],
+			[
+				"ste",
+				"step_w"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"curre",
+				"current_x"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"he",
+				"class_height"
+			],
+			[
+				"dis",
+				"display_widget"
+			],
+			[
+				"wi",
+				"widgets"
+			],
+			[
+				"hea",
+				"header_display"
+			],
+			[
+				"e",
+				"entry"
+			],
+			[
+				"id_",
+				"id_param"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"ne",
+				"new_widget"
+			],
+			[
+				"dom",
+				"dom_id"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"ref",
+				"refreshSubmitWidgetCallback"
+			],
+			[
+				"load",
+				"loadFromData"
+			],
+			[
+				"curr",
+				"current_widget_id_dom"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"add",
+				"addToDOM"
+			],
+			[
+				"cl",
+				"clearModuleContent"
+			],
+			[
+				"cle",
+				"clearConfig"
+			],
+			[
+				"fol",
+				"folder_name"
+			],
+			[
+				"inut",
+				"inputs"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"Mod",
+				"ModuleConfig"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"Mo",
+				"ModuleConfig"
+			],
+			[
+				"M",
+				"ModuleConfig"
+			],
+			[
+				"jsn",
+				"json_encode"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"cn",
+				"container"
+			],
+			[
+				"cu",
+				"current_x"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"module",
+				"id_module"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"pre",
+				"prep_select_id_widget"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fn",
+				"font-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"ini",
+				"ini_data"
+			],
+			[
+				"dataser",
+				"data_server_infos"
+			],
+			[
+				"dat",
+				"data_server"
+			],
+			[
+				"server",
+				"serverAddress"
+			],
+			[
+				"to",
+				"total_"
+			],
+			[
+				"ser",
+				"serverAddress"
+			],
+			[
+				"protocol",
+				"protocolNotSupported"
+			],
+			[
+				"on",
+				"onopen"
+			],
+			[
+				"data",
+				"dataDispatcher"
+			],
+			[
+				"nu",
+				"number_paquets_loss"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"si",
+				"bubbleSize"
+			],
+			[
+				"i",
+				"image"
+			],
+			[
+				"time",
+				"timeToLive"
+			],
+			[
+				"img",
+				"imgBubble"
+			],
+			[
+				"bu",
+				"bubbles"
+			],
+			[
+				"dr",
+				"drawDate"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"w",
+				"where_statement"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"date",
+				"date_begin"
+			],
+			[
+				"B",
+				"BarChartWebsocket"
+			],
+			[
+				"da",
+				"dataManager"
+			],
+			[
+				"ti",
+				"time_"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"re",
+				"refreshDisplay"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"ad",
+				"addressHexa"
+			],
+			[
+				"Net",
+				"network3D"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"background",
+				"background-color:   (property)"
+			],
+			[
+				"inn",
+				"innerHeight  (variable)"
+			],
+			[
+				"fill",
+				"fillRect  (function)"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"height",
+				"height:   (property)"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"We",
+				"WebSocketManager"
+			],
+			[
+				"remove",
+				"removeSatellite"
+			],
+			[
+				"alert",
+				"alertContainer"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"t",
+				"this	$(this)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"is",
+				"isNaN"
+			],
+			[
+				"upd",
+				"updateChart"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"tex",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/css/layout.css",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/device_list.phtml",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/actions/device_list.php",
+			"settings":
+			{
+				"buffer_size": 1506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/actions/device_register.php",
+			"settings":
+			{
+				"buffer_size": 1637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/_layout.phtml",
+			"settings":
+			{
+				"buffer_size": 2263,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 312.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/student/Prog/PiSignage/app/config.php",
+		"/home/student/Prog/PiSignage/app/views/device_list.phtml",
+		"/home/student/Prog/PiSignage/app/actions/device_list.php",
+		"/home/student/Prog/PiSignage/app/actions/device_register.php",
+		"/home/student/Prog/PiSignage/app/actions/video_edit.php",
+		"/home/student/Prog/PiSignage/app/views/scene_list.phtml",
+		"/home/student/Prog/PiSignage/app/actions/scene_list.php",
+		"/home/student/Prog/PiSignage/app/views/scene_edit.phtml",
+		"/home/student/Prog/PiSignage/app/actions/scene_edit.php",
+		"/home/student/Prog/PiSignage/app/actions/device_edit.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/app/sql_function.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/app/sql_request.php",
+		"/home/student/Prog/PiSignage/app/views/device_edit.phtml",
+		"/home/student/Prog/PiSignage/.htaccess",
+		"/home/student/Prog/PiSignage/app/actions/video_list.php",
+		"/home/student/Prog/PiSignage/app/views/video_list.phtml",
+		"/home/student/Prog/PiSignage/app/views/video_edit.phtml",
+		"/home/student/Prog/PiSignage/vendor/maximebf/debugbar/src/DebugBar/DataCollector/DataCollector.php",
+		"/home/student/Prog/test/tt/vendor/maximebf/debugbar/src/DebugBar/DataCollector/DataCollector.php",
+		"/home/student/Prog/test/tt/app/config.php",
+		"/home/student/Prog/test/tt/.htaccess",
+		"/home/student/Prog/PiSignage/composer.json",
+		"/home/student/Prog/PiSignage/app/views/_layout.phtml",
+		"/home/student/Prog/test/tt/app/actions/index.php",
+		"/home/student/Prog/PiSignage/app/actions/index.php",
+		"/home/student/Prog/test/tt/app/views/index.phtml",
+		"/home/student/Prog/PiSignage/index.php",
+		"/home/student/Prog/PiSignage/vendor/atomik/atomik/src/plugins/DebugBar.php",
+		"/tmp/squeeze-student/cache-0/atomik/composer.json",
+		"/home/student/Downloads/ asd",
+		"/home/student/Prog/PiSignage/assets/css/layout.css",
+		"/home/student/Prog/PiSignage/app/views/test_device_register.phtml",
+		"/home/student/Prog/PiSignage/app/actions/test_device_register.php",
+		"/home/student/Prog/PiSignage/app/views/device_register.phtml",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/views/_layout.phtml",
+		"/home/student/Prog/PiSignage/htaccess.example",
+		"/home/student/Prog/Network-Display-On-Pi/www/app/NDOP.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/sql/save_config_slide.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/views/slide_config.phtml",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/slide_config.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/index.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network/AjaxManager.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/BandwidthChartAjax.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/ndop.conf.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/sql/load_widgets.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/sql/update_id_slide.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/views/widgets.phtml",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BandwidthChartWebsocket/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BandwidthChartAjax/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/ProtocolIPV4Websocket/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BandwidthChartWebsocket/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/BandwidthChartWebsocket.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BandwidthChartAjax/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/BandwidthChart.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/views/modules.phtml",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/views/module_editor.phtml",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/TopProtocolsWebsocket/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/protocols/TopProtocolsWebsocket.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/TopProtocolsWebsocket/widget.ini",
+		"/srv/share/install-snort",
+		"/srv/share/techno",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/BarChartWebsocket.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network/WebSocketManager.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/snort/BaseAlert.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BaseAlert/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BaseAlert/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/Summary/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/BDD/NDOP_GUI.sql",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/bootstrap.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BandwidthTextAjax/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/ProtocolEthernetChartAjax/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/ProtocolIPV4Ajax/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BaseAlert/base/base.conf.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BaseAlert/base/perso/base_conf.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/sql/config_database.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BaseAlert/base/perso/base_stat_alerts.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/perso/base_conf.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/perso/base_stat_alerts.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/includes/base_include.inc.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/adodb5/copy/adodb.inc.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/includes/base_db.inc.phpa",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/perso/base_qry_common.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/base_qry_common.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/perso/base_main.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network/DataDispatcher.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/ProtocolIPV4Websocket/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/test/index.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/tools/minify-js.sh",
+		"/home/student/Prog/Network-Display-On-Pi/www/pages/NDOP.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/sql/save_slide_config.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/sql/delete_parameter_set.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/admin/app/actions/slide_config_page.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/notes",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/Network3D/widget.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/slide/slide-conf.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/base/base_conf.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/style/main.css",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/dns/BubbleDns.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/dns/DnsDisplayerCanvas.js",
+		"/home/student/Prog/Network-Display-On-Pi/README.md",
+		"/home/student/Prog/Network-Display-On-Pi/www/style/slide.css",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/StackedColumnChart.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/StackedColumnChartAjax.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/ServerStat.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network3D/Scene3D.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network3D/Satellite3D.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/BarChart.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network3D/Ray.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network3D/InformationsDisplay.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/network/loader.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/BarChartAjax.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/PacketLossChart.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/PercentCounterChart.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/script/chart/SummaryCanvas.js",
+		"/home/student/Downloads/localhost (6).sql",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/Summary/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/BandwidthTextAjax/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/tools/minify-css-libs.sh",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/Network3D/Network3D.conf.js",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/Network3D/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/Network3D/content.php",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/ProtocolIPV4Ajax/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/ProtocolEthernetChartAjax/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/MapOffline/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/widgets/MapOnline/params.ini",
+		"/home/student/Prog/Network-Display-On-Pi/www/tools/minify-js-3d.sh",
+		"/home/student/Prog/Network-Display-On-Pi/www/tools/minify-js-libs.sh",
+		"/home/student/Prog/Network-Display-On-Pi/www/minify/libs.min.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/student/Prog/PiSignage/vendor/atomik/atomik/src/plugins",
+			"",
+			"/home/student/Prog/Network-Display-On-Pi/www/",
+			"/home/student/Prog/Network-Display-On-Pi/www/base/perso,/home/student/Prog/Network-Display-On-Pi/www/script",
+			"/home/student/Prog/Network-Display-On-Pi/www/base/perso",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DATE",
+			"id_de",
+			"StandardDebugBar",
+			"<?php if ($this['atomik.debug']) echo $this->renderDebugBarHead(); ?>",
+			"return",
+			"request",
+			"debu",
+			"scene_edit",
+			"save_slide_conf",
+			"ProtocolIPV4Websocket",
+			"echo",
+			"selec",
+			"dtime",
+			"pages",
+			"pages/",
+			"echo",
+			"fopen",
+			"dir__",
+			"dir",
+			"NewBASEDBConnection",
+			"include_once",
+			"ImportHTTPVar",
+			"base_constants.inc.php",
+			"QueryResultsOutput",
+			"UpdateAlertCache",
+			"base_state_query.inc.php",
+			"QueryState",
+			"CriteriaState",
+			"EventTiming",
+			"engli",
+			"engi",
+			"server_stat",
+			"admin",
+			"onerror",
+			"slide",
+			"requestAnimationFrame",
+			"requestAnimationFramePerso",
+			"request",
+			"StackedColumnChartAjax",
+			"Number of packets",
+			"fontawesome-webfont.woff?v=3.1.0",
+			"font",
+			"\\f054",
+			",",
+			"ini",
+			"truc",
+			"truc ",
+			"truc",
+			"NDOP_GUI",
+			"url",
+			"base/perso",
+			"Network3D.conf",
+			"Networ3D.conf",
+			"save_config",
+			"thumbnail",
+			"get_widget",
+			"get_config_module",
+			".svg",
+			"save_con",
+			"get_config_layout",
+			"get_config",
+			".ttf",
+			"pages/sql",
+			"pages/sal",
+			"redbubble",
+			"widgets/DnsText",
+			"ndop.conf.php",
+			"NDOP::init",
+			"init",
+			"res/img",
+			"widgets/Dns",
+			"pagination.png",
+			"database_login",
+			"BubbleDns",
+			"body",
+			"192.168.1.137",
+			"192.168.1.144",
+			"ip",
+			"container",
+			"img",
+			"fetchall",
+			"TEXT",
+			"PDO",
+			"TIMEOUT",
+			"server_informations",
+			"server_information",
+			"(",
+			"display_module",
+			"header_display",
+			"display_widget",
+			"ndop.conf",
+			"root",
+			"console",
+			"module_c",
+			"module_",
+			"console",
+			"CONSOLE",
+			"SUBMIT",
+			"SETFOC",
+			"current_widget_id_dom",
+			"rPanelToDOM(that.container_parameter);\n            // that.refreshSubmitWidgetCallback();\n            // that.refreshDeleteWid",
+			"addParameterPanelToDOM",
+			"submit",
+			"refreshDeleteWidgetCallback",
+			"refreshSubmitWidgetCallback",
+			"addWidget",
+			"submit",
+			"console",
+			"i {",
+			"drag_drop.css",
+			"drag",
+			"drag_drop.js",
+			"console",
+			"3",
+			"drag_drop_module.js",
+			"drag_drop.js",
+			"id=",
+			"display: \"block\"",
+			"display: \"none\"",
+			"display: \"none\",",
+			"hidden",
+			"display",
+			"display: \"block\"",
+			"display: \"none\"",
+			"display",
+			"\n",
+			"screen-container",
+			"screen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"body",
+			"visibility: \"visible\"",
+			"visibility: \"hidden\"",
+			"visibility: \"visible\"",
+			"visibility: \"hidden\"",
+			"Network3DMaskList",
+			"'",
+			"</div",
+			"<div",
+			"div",
+			"ModuleConfig",
+			"monthly"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/css/layout.css",
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/device_list.phtml",
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								854
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/actions/device_list.php",
+					"settings":
+					{
+						"buffer_size": 1506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/actions/device_register.php",
+					"settings":
+					{
+						"buffer_size": 1637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1032,
+								1032
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/_layout.phtml",
+					"settings":
+					{
+						"buffer_size": 2263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2041,
+								2041
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}

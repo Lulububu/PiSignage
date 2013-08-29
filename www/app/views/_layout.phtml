@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>PiSignage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/css/bootstrap-combined.min.css" rel="stylesheet">
+    <link href="<?php echo $this->asset('assets/css/layout.css') ?>" rel="stylesheet">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <?php if ($this['atomik.debug'] && Atomik::isPluginLoaded('DebugBar')) echo $this->renderDebugBarHead(); ?>
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="<?= $this->url('/') ?>">PiSignage</a>
+          <ul class="nav">
+            <li class="<?= $this['home'] ?>"><a href="<?= $this->url('/') ?>">Home</a></li>
+          </ul>
+          <ul class="nav">
+            <li class="<?= $this['device'] ?>"><a href="<?= $this->url('device/') ?>">Device</a></li>
+          </ul>
+          <ul class="nav">
+            <li class="<?= $this['scene'] ?>"><a href="<?= $this->url('scene/') ?>">Scene</a></li>
+          </ul>
+          <ul class="nav">
+            <li class="<?= $this['video'] ?>"><a href="<?= $this->url('video/') ?>">Video</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <?php if (count($this['flash_messages'])): ?>
+        <?php foreach ($this['flash_messages'] as $label => $messages): ?>
+          <?php foreach ($messages as $message): ?>
+            <div class="alert alert-<?php echo $label ?>"><?php echo $message ?></div>
+          <?php endforeach; ?>
+        <?php endforeach; ?>
+      <?php endif ?>
+    
+      <div id="content">
+        <?php echo $contentForLayout; ?>
+      </div>
+    </div>
+    <?php if ($this['atomik.debug'] && Atomik::isPluginLoaded('DebugBar')) echo $this->renderDebugBar(); ?>
+  </body>
+</html>

@@ -1,0 +1,48 @@
+
+
+
+<h1>Scenes</h1>
+<table class="table">
+	<tr>
+		<th>Name</th>
+		<th>Description</th>
+		<th>Web page</th>
+		<th>Video</th>
+		<th>Video location</th>
+		<th>Edit</th>
+	</tr>
+	
+	
+	<?php foreach ($scenes as $scene): ?>
+	<tr>
+		<td><?= $this->escape($scene['name']) ?></td>
+		<td><?= $this->escape($scene['description']) ?></td>
+		<td>
+			<a href="<?= $this->escape($scene['url']) ?>" target="_blank">
+				<?= $this->escape($scene['url']) ?>
+			</a>
+		</td>
+		<td>
+			<?php if ($scene['id_video'] !== NULL): ?>
+				<a href="<?= $this->url('video/edit/').$scene['id_video'] ?>" target="_blank">
+					<?= $this->escape($scene['video_name']) ?>
+				</a></td>
+			<?php endif; ?>
+			
+		<td>
+			x: <?= $this->escape($scene['x']) ?>
+			y: <?= $this->escape($scene['y']) ?>
+			width: <?= $this->escape($scene['width']) ?>
+			height: <?= $this->escape($scene['height']) ?>
+		</td>
+		<td class="edit-container-icon">
+			<a href="<?= $this->url('scene/edit/'.$scene['id']) ?>"><i class="icon-edit"></i></a>
+			<?= $form = $this->form($this->url('')) ?>
+				<input type="hidden" name="id_scene" value="<?= $scene['id'] ?>" />
+				<a href="#" onclick="$(this).closest('form').submit()"><i class="icon-remove"></i></a>
+			</form>
+	</tr>
+	<?php endforeach; ?>
+
+</table>
+<a href="<?= $this->url('scene/edit/') ?>">Add a new scene</a>

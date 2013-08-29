@@ -1,0 +1,21 @@
+<h1>Video editor</h1>
+
+
+<form action="<?= $this->url('') ?>" method="post">
+	<p>
+		<label for="name">Name:</label>
+		<input name="name" type="text" value="<?=$video['name']?>">
+	</p>
+	<p>
+		<label for="description">Descripton:</label>
+		<textarea name="description" ><?=$video['description']?></textarea>
+	</p>
+	<p>
+		<label for="url">Url:</label>
+		<input name="url" type="text" value="<?=$video['url']?>">
+	</p>
+	<p>
+		
+	<input type="hidden" name="id" value="<?= $id ?>">
+	<button type="submit">Submit</button>
+</form>

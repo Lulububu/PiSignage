@@ -1,0 +1,4 @@
+*.sublime-project
+composer.lock
+vendor
+example/example.db

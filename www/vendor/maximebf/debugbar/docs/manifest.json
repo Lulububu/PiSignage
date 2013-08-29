@@ -1,0 +1,15 @@
+{
+    "title": "PHP Debug Bar",
+    "css": "style.css",
+    "home": "../README.md",
+    "files": [
+        "../README.md",
+        "data_collectors.md",
+        "rendering.md",
+        "base_collectors.md",
+        "bridge_collectors.md",
+        "storage.md",
+        "openhandler.md",
+        "javascript_bar.md"
+    ]
+}

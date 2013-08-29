@@ -1,0 +1,51 @@
+<h1>Scene editor</h1>
+
+<?= $form = $this->form($this->url('')) ?>
+	<p>
+		<label for="name">Name:</label>
+		<input name="name" type="text" value="<?=$scene['name']?>">
+	</p>
+	<p>
+		<label for="description">Descripton:</label>
+		<textarea name="description" ><?=$scene['description']?></textarea>
+	</p>
+	<p>
+		<label for="url">Webpage url:</label>
+		<input name="url" type="text" value="<?=$scene['url']?>">
+	</p>
+	<p>
+		
+	
+		<h2>Video</2>
+	</p>
+	<p>
+		<select name="id_video">
+			<?php foreach ($videos as $video): ?>
+				<?php if($video['id'] == $scene['id_video']): ?>
+					<option value="<?= $video['id'] ?>" selected><?= $video['name'] ?></option>
+				<?php else: ?>
+					<option value="<?= $video['id'] ?>"><?= $video['name'] ?></option>
+				<?php endif; ?>
+			<?php endforeach; ?>
+		</select>
+	</p>
+	<h2>Video position</h2>
+	<p>
+		<label for="x">x:</label>
+		<input name="x" type="number" value="<?=$scene['x']?>">
+	</p>
+	<p>
+		<label for="y">y:</label>
+		<input name="y" type="number" value="<?=$scene['y']?>">
+	</p>
+	<p>
+		<label for="width">width:</label>
+		<input name="width" type="number" value="<?=$scene['width']?>">
+	</p>
+	<p>
+		<label for="height">height:</label>
+		<input name="height" type="number" value="<?=$scene['height']?>">
+	</p>
+	<input type="hidden" name="id" value="<?= $id ?>">
+	<button type="submit">Submit</button>
+</form>

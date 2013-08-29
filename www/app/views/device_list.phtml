@@ -1,0 +1,45 @@
+<h1>Devices</h1>
+<table class="table devices-table">
+	<tr>
+		<th>Ip</th>
+		<th>Name</th>
+		<th>MAC</th>
+		<th>Last login</th>
+		<th>Disk available</th>
+		<th>Cache</th>
+		<th>Scene</th>
+		<th>Edit</th>
+
+	</tr>
+	<?php foreach ($devices as $device): ?>
+	<tr class="<?= getStatus($device['last_login']) ?>">
+		<td><?= $this->escape($device['ip']) ?></td>
+		<td><?= $this->escape($device['name']) ?></td>
+		<td><?= $this->escape($device['mac']) ?></td>
+		<td><?= $this->escape($device['last_login']) ?></td>
+		<td><?= formatBytes($device['disk_available']) ?></td>
+		<td>
+			<?= $form = $this->form($this->url('')) ?>
+				<input type="hidden" name="id_device" value="<?= $device['id'] ?>" />
+				<input type="hidden" name="command" value="wipeout_cache" />
+				<input type="submit" value="Wipeout local cache" class="btn" 
+					<?= ($device['wipeout_cache']) ? 'disabled':''; ?>
+				>
+			</form>
+		</td>
+		<td>
+			<a href="<?= $this->url('scene/edit/').$device['id_scene'] ?>" target="_blank">
+				<?= $this->escape($device['scene_name']) ?>
+			</a>
+		</td>
+		<td class="edit-container-icon">
+			<a href="<?= $this->url('device/edit/'.$device['id']) ?>"><i class="icon-edit"></i></a>
+			<?= $form = $this->form($this->url('')) ?>
+				<input type="hidden" name="id_device" value="<?= $device['id'] ?>" />
+				<input type="hidden" name="command" value="remove" />
+				<a href="#" onclick="$(this).closest('form').submit()"><i class="icon-remove"></i></a>
+			</form>
+		</td>
+	</tr>
+	<?php endforeach; ?>
+</table>

@@ -1,0 +1,29 @@
+<h1>Videos</h1>
+<table class="table">
+	<tr>
+		<th>Name</th>
+		<th>Description</th>
+		<th>url</th>
+	</tr>
+	
+	
+	<?php foreach ($videos as $video): ?>
+	<tr>
+		<td><?= $this->escape($video['name']) ?></td>
+		<td><?= $this->escape($video['description']) ?></td>
+		<td>
+			<a href="<?= $video['url'] ?>" target="_blank">
+				<?= $video['url'] ?>
+			</a>
+		</td>
+		<td class="edit-container-icon">
+			<a href="<?= $this->url('video/edit/'.$video['id']) ?>"><i class="icon-edit"></i></a>
+			<?= $form = $this->form($this->url('')) ?>
+				<input type="hidden" name="id_video" value="<?= $video['id'] ?>" />
+				<a href="#" onclick="$(this).closest('form').submit()"><i class="icon-remove"></i></a>
+			</form>
+	</tr>
+	<?php endforeach; ?>
+
+</table>
+<a href="<?= $this->url('video/edit/') ?>">Add a new videos</a>

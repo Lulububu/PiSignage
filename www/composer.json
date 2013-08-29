@@ -1,0 +1,6 @@
+{
+    "require": {
+        "atomik/atomik": ">=3.0.0",
+        "maximebf/debugbar": "1.*"
+    }
+}

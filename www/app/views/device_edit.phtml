@@ -1,0 +1,29 @@
+<h1>Device editor</h1>
+
+<?= $form = $this->form($this->url('')) ?>
+	<p>
+		Name: <?=$device['name']?>
+	</p>
+	<p>
+		Ip: <?=$device['ip']?>
+	</p>
+	<p>
+		Mac: <?=$device['mac']?>
+	</p>
+	<p>
+		
+	
+		<h2>Scene</2>
+	</p>
+		<select name="id_scene">
+			<?php foreach ($scenes as $scene): ?>
+				<?php if($scene['id'] == $device['id_scene']): ?>
+					<option value="<?= $scene['id'] ?>" selected><?= $scene['name'] ?></option>
+				<?php else: ?>
+					<option value="<?= $scene['id'] ?>"><?= $scene['name'] ?></option>
+				<?php endif; ?>
+			<?php endforeach; ?>
+		</select>
+	<input type="hidden" name="id" value="<?= $id ?>">
+	<button type="submit">Submit</button>
+</form>
